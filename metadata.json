@@ -1,0 +1,7 @@
+{
+  "name": "007 Staycation - Trải nghiệm Nghỉ dưỡng & Tự động Check-in Bí Mật",
+  "description": "Hệ thống homestay nghỉ dưỡng concept 007 độc bản tại Bà Rịa. Tự động check-in 100%, bồn tắm chill, máy chiếu 4K, phòng ngủ theo chủ đề Mission và bảo mật riêng tư tuyệt đối.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
